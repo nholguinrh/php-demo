@@ -1,3 +1,3 @@
 <?php
-echo 'Hola mundo WOM';
+echo 'Hola mundo';
 ?>
