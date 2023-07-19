@@ -1,3 +1,3 @@
 <?php
-echo 'Hola mundo Megacable GDL 2023';
+echo 'Hola mundo';
 ?>
