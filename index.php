@@ -1,3 +1,3 @@
 <?php
-echo 'Hola mundo AMQ';
+echo 'Hola mundo TPLAY';
 ?>
