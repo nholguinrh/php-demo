@@ -1,3 +1,3 @@
 <?php
-echo 'Hola mundo Digicel Panama';
+echo 'Hola mundo';
 ?>
