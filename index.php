@@ -1,3 +1,3 @@
 <?php
-echo 'Hola mundo Desde CDMX';
+echo 'Hola mundo Desde SMC';
 ?>
