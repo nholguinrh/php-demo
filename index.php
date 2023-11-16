@@ -1,3 +1,3 @@
 <?php
-echo 'Hola mundo Claro Peru';
+echo 'Hola mundo';
 ?>
