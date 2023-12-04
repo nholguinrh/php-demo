@@ -1,3 +1,3 @@
 <?php
-echo 'Hola mundo Peru 2023';
+echo 'Hola mundo';
 ?>
