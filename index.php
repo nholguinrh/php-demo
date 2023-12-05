@@ -1,3 +1,3 @@
 <?php
-echo 'Hola mundo Claro Guatemala';
+echo 'Hola mundo tigo Colombia';
 ?>
