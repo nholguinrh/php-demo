@@ -1,3 +1,3 @@
 <?php
-echo 'Hola mundo Red Hat Day';
+echo 'Hola mundo';
 ?>
