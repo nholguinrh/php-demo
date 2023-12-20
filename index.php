@@ -1,3 +1,3 @@
 <?php
-echo 'Hola mundo ENTEL 2024';
+echo 'Hola mundo';
 ?>
