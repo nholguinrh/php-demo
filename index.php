@@ -1,3 +1,3 @@
 <?php
-echo 'Hola mundo CENAM 2024';
+echo 'Hola mundo';
 ?>
