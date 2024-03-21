@@ -1,3 +1,3 @@
 <?php
-echo 'Hola mundo Honduras';
+echo 'Hola mundo';
 ?>
