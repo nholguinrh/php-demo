@@ -1,3 +1,3 @@
 <?php
-echo 'Hola mundo Panama 2024';
+echo 'Hola mundo';
 ?>
