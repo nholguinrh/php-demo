@@ -1,3 +1,3 @@
 <?php
-echo 'Hola mundo BANTRAB 2024';
+echo 'Hola mundo';
 ?>
